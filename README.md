@@ -1,5 +1,7 @@
 # CharZapper
 
+![Demo](assets/demo.gif)
+
 ## Description
 
 CharZapper is a character map snippet engine.
