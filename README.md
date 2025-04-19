@@ -22,7 +22,7 @@ to create symbols, much like a compose key would do.
 ## (Optional) Activating via a Hotkey on Windows
 
 This project includes an AutoHotkey script called `CharZapper.ahk` which can
-be used to trigger the application using the Apps/Menu key on your keyboard
+be used to trigger the application using a double press of the right alt key on your keyboard
 and paste the result into your open program.  This allows you to easily type
 symbols into the program you're already typing in.
 
@@ -58,7 +58,7 @@ while you hit ENTER to change the case, or type your input text in uppercase.
 
 ## Auto-Paste Usage
 
-Run CharZapper.ahk using AutoHotkey.  Open notepad and press the Menu/Apps key.
+Run CharZapper.ahk using AutoHotkey.  Open notepad and double press the alt key.
 CharZapper should start.  Now type "theta".  You should see a theta symbol appear.
 Hit enter and it will be pasted into your notepad document.
 
