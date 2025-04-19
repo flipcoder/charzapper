@@ -1,0 +1,372 @@
+±:
+    chars: "+-_"
+    tags: [plusminus, plus, minus, math]
+    name: "plus minus"
+∓:
+    chars: "+^'"
+    tags: [minusplus, plus, minus, math]
+    name: "minus or plus"
+÷:
+    chars: "-./"
+    tags: [div division sign math]
+    name: "div"
+∙:
+    chars: ".*"
+    tags: [dot, bullet, mult, multiply, product]
+    name: bullet
+×:
+    chars: "x*"
+    tags: [x, cross, mult, multiply, product]
+    name: "x"
+∑:
+    chars: "E"
+    tags: [sig, sigma, sum, summation, nary, 'n-ary']
+    name: "sigma"
+π:
+    chars: pi
+    name: pi
+τ:
+    chars: tau
+    name: tau
+∨:
+    chars: orv
+    name: or
+∩:
+    chars: n
+    tags: [intersect, intersection, n]
+    name: intersect
+∴:
+    chars: "."
+    tags: [therefore]
+    name: "..."
+∵:
+    tags: [cuz]
+    name: "because"
+⊕:
+    chars: "xor+"
+    tags: [xor cross circle]
+    name: xor
+Ǝ:
+    chars: "e<"
+    tags: [backwards, e, exists]
+    name: "backwards e"
+∀ :
+    chars: "av"
+    tags: [for, all]
+    name: "for all"
+∃:
+    tags: [there, exists]
+    name: "there exists"
+≠:
+    chars: neq
+    tags: [not, equal]
+    name: "!="
+©:
+    chars: co
+    name: copyright
+≤:
+    chars: "<=_"
+    name: "<="
+≥:
+    chars: ">=_"
+    name: ">="
+≪:
+    char: "<"
+    name: "<<"
+≫:
+    chars: ">"
+    name: ">>"
+⋘:
+    chars: "<"
+    name: "<<<"
+⋙:
+    chars: ">"
+    name: ">>>"
+∫:
+    chars: "s"
+    tags: ['int', 'integral', 'integrate', 'integration']
+    name: "integral"
+≅:
+    chars: "~="
+    tags: [approx, approximately, equal]
+    name: "~="
+→:
+    tags: [right, arrow]
+    name: "->"
+←:
+    tags: [left, arrow]
+    name: "<-"
+¬:
+    chars: not
+    name: not
+≈:
+    tags: [almost, equal]
+    name: "~~"
+⊄:
+    tags: [subset]
+    name: "not subset"
+⊅:
+    tags: [superset]
+    name: "not superset"
+⊂:
+    chars: c
+    tags: [sub]
+    name: "subset"
+⊃:
+    tags: [cc, super]
+    name: "superset"
+⊆:
+    chars: "c="
+    tags: [sub, subset, "subset=", equal]
+    name: "sub="
+⊇:
+    chars: "c="
+    tags: [cc, "=cc", superset, "superset=", equal]
+    name: "super="
+ℕ:
+    chars: "N"
+    tags: [n]
+    name: "natural"
+ℝ:
+    chars: "R"
+    tags: [r]
+    name: "real"
+ℚ:
+    chars: "Q"
+    tags: [q]
+    name: "rational"
+ℙ:
+    chars: "P"
+    name: "P"
+ℤ:
+    chars: "Z"
+    tags: [z]
+    name: "integers"
+ℍ:
+    chars: "H"
+    name: "H"
+ℂ:
+    chars: "C"
+    tags: [c]
+    name: "C"
+√:
+    tags: [square, root, squareroot]
+    name: "sqrt"
+∛:
+    tags: [cube, cubic, root, cuberoot]
+    name: "cbrt"
+½:
+    tags: [half]
+    name: "1/2"
+¼:
+    tags: [quarter]
+    name: "1/4"
+¾:
+    name: "3/4"
+¹:
+    chars: "1'"
+    name: "^1"
+²:
+    chars: "2'"
+    name: "^2"
+³:
+    chars: "3'"
+    name: "^3"
+⁴:
+    chars: "4'"
+    name: "^4"
+⁵:
+    chars: "5'"
+    name: "^5"
+⁶:
+    chars: "6'"
+    name: "^6"
+⁷:
+    chars: "7'"
+    name: "^7"
+⁸:
+    chars: "8'"
+    name: "^8"
+⁹:
+    chars: "9'"
+    name: "^9"
+⁰:
+    chars: "0'"
+    name: "^0"
+₀:
+    chars: "0,"
+    name: "0,"
+₁:
+    chars: "1,"
+    name: "1,"
+₂:
+    chars: "2,"
+    name: "2,"
+₃:
+    chars: "3,"
+    name: "3,"
+₄:
+    chars: "4,"
+    name: "4,"
+₅:
+    chars: "5,"
+    name: "5,"
+₆:
+    chars: "6,"
+    name: "6,"
+₇:
+    chars: "7,"
+    name: "7,"
+₈:
+    chars: "8,"
+    name: "8,"
+₉:
+    chars: "9,"
+    name: "9,"
+ⁿ:
+    chars: "n'"
+    name: "n'"
+ₙ:
+    chars: "n,"
+    name: "n,"
+⁺:
+    chars: "+'"
+    name: "+'"
+⁻:
+    chars: "-'"
+    name: "-'"
+↑:
+    chars: "^"
+    tags: [up, arrow]
+    name: up
+↓:
+    chars: "v"
+    tags: [down, arrow]
+    name: down
+∞:
+    tags: [inf, infinity]
+    name: infinity
+α:
+    chars: a
+    name: alpha
+β:
+    chars: b
+    name: beta
+Θ:
+    chars: "to-"
+    name: theta
+Ω:
+    chars: om
+    name: omega
+€:
+    chars: "$e"
+    name: euro
+¢:
+    chars: "$c"
+    tags: [cents]
+    name: cent
+£:
+    chars: "$f"
+    name: pound
+¥:
+    chars: "$y"
+    name: yen
+¿:
+    chars: "?"
+    name: "??"
+¡:
+    chars: "!"
+    name: "!!"
+à:
+    chars: "a`"
+    name: "a`"
+á:
+    chars: "a'"
+    name: "a'"
+â:
+    chars: "a^"
+    name: "a^"
+é:
+    chars: "e'"
+    name: "e'"
+í:
+    chars: "i'"
+    name: "i'"
+ó:
+    chars: "o'"
+    name: "o'"
+ú:
+    chars: "u'"
+    name: "u'"
+ü:
+    chars: "u."
+    name: "u\""
+ĝ:
+    chars: "g^"
+    name: "g^"
+ĥ:
+    chars: "h^"
+    name: "h^"
+ŝ:
+    chars: "s^"
+    name: "s^"
+ĵ:
+    chars: "j^"
+    name: "j^"
+ĉ:
+    chars: "c^"
+    name: "c^"
+ŭ:
+    chars: u
+    name: uu
+Æ:
+    char: ae
+    name: ae
+🙂:
+    chars: ":)"
+    name: ":)"
+★:
+    name: star
+♠:
+    name: spade
+♥:
+    name: heart
+♣:
+    name: club
+♦:
+    name: diamond
+✓:
+    name: check
+✎:
+    name: pencil
+✉:
+    tags: [envelope, email]
+    name: mail
+✀:
+    name: scissors
+𝅘𝅥𝅮:
+    tags: [eighth, note]
+    name: note
+🎵:
+    tags: [notes]
+    name: music
+🔥:
+    name: fire
+ñ:
+    chars: n
+    tags: ["~n"]
+    name: "n~"
+§:
+    name: section
+°:
+    tags: [degree, degrees]
+    name: deg
+⊆:
+    chars: "c_"
+    tags: ["_c"]
+    name: "c_"
+Ø:
+    chars: "0o/"
+    tags: ["0/", "o/", "/o"]
+    name: "0/"
+
